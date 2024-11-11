@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aihubrel/first-react-app.git/static/css/main.31c3465a.css",
-    "main.js": "/aihubrel/first-react-app.git/static/js/main.d3f97530.js",
+    "main.js": "/aihubrel/first-react-app.git/static/js/main.84948140.js",
     "static/js/453.b7e731bb.chunk.js": "/aihubrel/first-react-app.git/static/js/453.b7e731bb.chunk.js",
     "index.html": "/aihubrel/first-react-app.git/index.html",
     "main.31c3465a.css.map": "/aihubrel/first-react-app.git/static/css/main.31c3465a.css.map",
-    "main.d3f97530.js.map": "/aihubrel/first-react-app.git/static/js/main.d3f97530.js.map",
+    "main.84948140.js.map": "/aihubrel/first-react-app.git/static/js/main.84948140.js.map",
     "453.b7e731bb.chunk.js.map": "/aihubrel/first-react-app.git/static/js/453.b7e731bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31c3465a.css",
-    "static/js/main.d3f97530.js"
+    "static/js/main.84948140.js"
   ]
 }
